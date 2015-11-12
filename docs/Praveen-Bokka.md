@@ -5,8 +5,9 @@ From : Virginia Beach
 Food : Bajji
 Hobby: Tennis
 Sign : Taurus
-Pet  : My Doggy
 **color:** is Blue
+**Story:** Bharaha
+*Movie:** La Vita e Bella
 
     You look awesome today!
     Today is your day!
