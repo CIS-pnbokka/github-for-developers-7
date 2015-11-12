@@ -2,7 +2,7 @@
 
 Name: Praveen Bokka
 From : Virginia Beach
-Food : Bajjo
+Food : Bajji
 Hobby: Tennis
 **color:** is Blue
 
