@@ -6,7 +6,7 @@ Food : Bajji
 Hobby: Tennis
 Sign : Taurus
 **color:** is Blue
-**Story:** Bharaha
+**Story:** Bharatha
 *Movie:** La Vita e Bella
 
     You look awesome today!
