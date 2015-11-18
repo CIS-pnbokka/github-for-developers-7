@@ -6,3 +6,5 @@ New line
 Second line after commit
 
 3rd line
+
+4th line
